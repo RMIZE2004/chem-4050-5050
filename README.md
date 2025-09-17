@@ -1,0 +1,5 @@
+ # Discussion of Second Virial Coefficient 
+-**Hard-sphere** We see temperature independence based on a simple space exclusion repulsion model which clearly shows on our graphical outputs based on its behavior. The f value should be negative when r is less than sigma and otherwise
+should be 0 as integral should be constant, which makes sense because the potential is infinite when r is less than sigma.
+-**Square-Well** The high temperatures display a lack of attraction compared to low temperatures. Here the formula evaluates to -1 in the core, which makes sense given that the potential is infinite for r less than sigma, but then has a definitive negative potential in the well itself.
+-**Lennard-Jones** The low temperatures appear similar to square well with attraction but the curvature is different and heads to positive values at high temperatures at a less steep ascent. This makes sense because the f value is positive in the attractive tail due to negative potential and negative near the core due to high positive potential
