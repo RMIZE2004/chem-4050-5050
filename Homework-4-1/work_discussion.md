@@ -1,0 +1,3 @@
+The results shown in the work vs volume plot match what should be observed because we'd expect isothermal to require more work by the gas for the same expansion of volume when compared to the adiabatic expansion. 
+We can see from our integral for the adiabatic based on our gamma factor that it is greater than 1. This will mean that when comparing a ratio of V initial to final raised to the gamma for the adiabatic  compared to isothermal which is simply V initial over V final the adiabatic will require less work to expand. 
+This result matches conventional knowledge because an even when at equal starting conditions, an adiabatic system will not be expanding at a pressure equal to that of the isothermal system because the pressure will be constant for the isothermal.
